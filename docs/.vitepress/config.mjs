@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "前端法師的工具箱",
   description: "A blog with some awesome frontend tricks",
+  base: '/FrontendToolbox/',
   head: [],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
